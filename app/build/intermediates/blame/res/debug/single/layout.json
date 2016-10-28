@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\github\\DatabaseTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guaci.xml",
+        "source": "D:\\github\\DatabaseTest1\\app\\src\\main\\res\\layout\\guaci.xml"
+    },
+    {
+        "merged": "D:\\github\\jaugur\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guaci.xml",
+        "source": "D:\\github\\jaugur\\app\\src\\main\\res\\layout\\guaci.xml"
+    },
+    {
+        "merged": "D:\\github\\DatabaseTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\github\\DatabaseTest1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\github\\jaugur\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\github\\jaugur\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
