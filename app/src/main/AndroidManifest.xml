@@ -23,8 +23,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.jcc.yijing.CiActivity"></activity>
-        <service android:name="com.jcc.yijing.MyService"></service>
+        <activity android:name="com.jcc.yijing.CiActivity" />
+
+        <service android:name="com.jcc.yijing.MyService" />
     </application>
 
 </manifest>
